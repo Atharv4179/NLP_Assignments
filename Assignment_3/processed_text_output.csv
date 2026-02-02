@@ -1,0 +1,4 @@
+Text,Label,Cleaned_Text,No_Stopwords,Lemmatized_Text,Encoded_Label
+My Self Atharva,Person,my self atharva,self atharva,self atharva,1
+My Profession Engineer,Profession,my profession engineer,profession engineer,profession engineer,2
+I like Sports,Hobby,i like sports,like sports,like sport,0
